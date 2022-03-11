@@ -1,4 +1,4 @@
-<h1 aling="center">
+<h1 align="center">
   Requisitos Funcionais
 </h1>
 
