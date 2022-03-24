@@ -18,3 +18,25 @@ Repositório para atividades de Engenharia de Software
 </h2>
 
 ![alt text](https://github.com/silvestredavi/bertoti/blob/main/Engenharia%20de%20Software%20I/Projetos%20de%20Sistemas/Diagrama%20de%20Classes%20ES/Diagrama%20de%20Classe%20ES.png)
+
+<h2> 
+  Código em Java:
+</h2> </p>
+<h4>
+  Classe Pessoa:
+</h4>
+
+![alt text](https://github.com/silvestredavi/bertoti/blob/main/Engenharia%20de%20Software%20I/Projetos%20de%20Sistemas/Diagrama%20de%20Classes%20ES/CodigosJava%20(1).png)
+
+<h4>
+  Classe Equipe:
+</h4>
+
+![alt text](https://github.com/silvestredavi/bertoti/blob/main/Engenharia%20de%20Software%20I/Projetos%20de%20Sistemas/Diagrama%20de%20Classes%20ES/CodigosJava%20(2).png)
+
+<h4>
+  Classe principal Plataforma de Ensino:
+</h4>
+
+![alt text](https://github.com/silvestredavi/bertoti/blob/main/Engenharia%20de%20Software%20I/Projetos%20de%20Sistemas/Diagrama%20de%20Classes%20ES/CodigosJava%20(3).png)
+
