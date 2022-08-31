@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#ap">Apresentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#principio">Princip</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desenvolvimento">Desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dev">Dev</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -22,24 +22,20 @@
 
 </div>
 
-<div id="#requisitos">
+<div id="#principio1">
   
-  ## 📝Requisitos
+  ## 📝Principle 1 – Perceivable
 
-  <p align="justify">Requisito é formalmente definido pelo dicionário como uma condição ou uma exigência que deve ser atendida para alcançar determinado fim. Dentro da engenharia de software, os requisitos são imprescindíveis ao longo de todo o ciclo de vida de um software, independentemente de sua natureza (marketplace, aplicativo, página web etc.).<br>
-<br>Esses requisitos são divididos em duas categorias: requisitos funcionais e requisitos não funcionais.<br><br>
-    <b> A) Requisitos funcionais: </b>
+  <p align="justify">Este princípio acima de tudo visa a percepção do usuário em relação as informações e aos componentes da interface da aplicação web.<br>
+<br>Segue abaixo algumas diretrizes deste princípio:<br><br>
+    <b> A) Diretriz 1.1 Alternativas de texto: </b>
     <br>
     <br> Dizem respeito ao comportamento do software, ou seja, todas as funções e informações a serem executadas, fornecidas e tratadas por ele. Mais especificamente, guarda relação com a forma como ele deve reagir a determinadas entradas, a como ele irá se portar em determinadas situações, e até mesmo a declarar o que o sistema não deve fazer.<br>
-<br>No exemplo da plataforma de ensino, ela deve ser capaz de separar os usuários em dois perfis: de professor e de aluno. O perfil do professor precisa estar apto a criar equipes, a entrar em contato com outros professores e/ou alunos, a criar reuniões, entre outras atividades. Já o perfil do aluno deve permitir a ele criar equipes, buscar outros alunos e/ou professores, buscar informações etc. <br>
-<br>Repare que todos os requisitos funcionais se resumem a um verbo, a uma ação a ser executada dentro do software.<br>
-    <br>
+<div align="center">
+  <img src="/Imagens/AltNegatino.PNG" alt="página web exibindo imagens">
+ </div>
  </p>
  </div>
- <div align="center">
-  <img src="Requisitos-Funcionais.drawio.png" alt="esquematização dos requisitos funcionais" width="600" height="500">
-  <br>
-  </div>
   
   <br>
   <b> B) Requisitos não funcionais: </b>
