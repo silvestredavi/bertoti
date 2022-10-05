@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#ap">Apresentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#principio">Princip</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#principio">Principle</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desenvolvimento">Desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dev">Dev</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -30,12 +30,11 @@
 <br>Segue abaixo algumas diretrizes deste princípio:<br><br>
     <b> A) Diretriz 1.1 Alternativas de texto: </b>
     <br>
-    <br> Dizem respeito ao comportamento do software, ou seja, todas as funções e informações a serem executadas, fornecidas e tratadas por ele. Mais especificamente, guarda relação com a forma como ele deve reagir a determinadas entradas, a como ele irá se portar em determinadas situações, e até mesmo a declarar o que o sistema não deve fazer.<br>
-<div align="center">
-  <img src="/Imagens/AltNegatino.PNG" alt="página web exibindo imagens">
- </div>
- </p>
- </div>
+    <br> Dizem respeito ao comportamento do software, ou seja, todas as funções e informações a serem executadas, fornecidas e tratadas por ele. Mais especificamente, guarda relação com a forma como ele deve reagir a determinadas entradas, a como ele irá se portar em determinadas situações, e até mesmo a declarar o que o sistema não deve fazer.<br></p>
+  <div align="center">
+    <img src="Imagens/AltNegativo.PNG" alt="página web exibindo imagens">
+  </div>
+</div>
   
   <br>
   <b> B) Requisitos não funcionais: </b>
