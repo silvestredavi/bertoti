@@ -46,28 +46,28 @@ public class SuperHero {
         double armorStrength = armorDamageReduction;
         int totalDamage = damageStrength;
 
-        if(totalDamage == 100){
+        if(totalDamage == 100) {
             totalDamage = (int)(totalDamage - (totalDamage * armorStrength / 100));
             if(armorStrength > 20.0){
                 System.out.println("O oponente sofreria uma redução de 100 em sua vida total, porém ele vestia uma armadura contra dano verdadeiro, " +
-                        "por isso o dano foi reduzido em 20.5%, e o dano foi de \" + totalDamage + \" pontos de vida.\"");
+                        "por isso o dano foi reduzido em 20.5%, e o dano foi de " + totalDamage + " pontos de vida.");
             } else if(armorStrength > 16.0) {
                 System.out.println("O oponente sofreria uma redução de 100 em sua vida total, porém ele vestia uma armadura contra dano físico, " +
-                        "por isso o dano foi reduzido em 16.5%, e o dano foi de \" + totalDamage + \" pontos de vida.\"");
+                        "por isso o dano foi reduzido em 16.5%, e o dano foi de " + totalDamage + " pontos de vida.");
             } else {
-                System.out.println("O oponente sofreria uma redução de 60 em sua vida, porém ele vestia uma armadura contra dano mágico, " +
+                System.out.println("O oponente sofreria uma redução de 100 em sua vida, porém ele vestia uma armadura contra dano mágico, " +
                         "por isso o dano foi reduzido em 13.5%, e o dano foi de " + totalDamage + " pontos de vida.");
             }
 
-        } else if (totalDamage == 80){
+        } else if (totalDamage == 80) {
 
             totalDamage = (int)(totalDamage - (totalDamage * armorStrength / 100));
             if(armorStrength > 20.0){
                 System.out.println("O oponente sofreria uma redução de 80 em sua vida total, porém ele vestia uma armadura contra dano verdadeiro, " +
-                        "por isso o dano foi reduzido em 20.5%, e o dano foi de \" + totalDamage + \" pontos de vida.\"");
+                        "por isso o dano foi reduzido em 20.5%, e o dano foi de " + totalDamage + " pontos de vida.");
             } else if(armorStrength > 16.0) {
                 System.out.println("O oponente sofreria uma redução de 80 em sua vida total, porém ele vestia uma armadura contra dano físico, " +
-                        "por isso o dano foi reduzido em 16.5%, e o dano foi de \" + totalDamage + \" pontos de vida.\"");
+                        "por isso o dano foi reduzido em 16.5%, e o dano foi de " + totalDamage + " pontos de vida.");
             } else {
                 System.out.println("O oponente sofreria uma redução de 80 em sua vida, porém ele vestia uma armadura contra dano mágico, " +
                         "por isso o dano foi reduzido em 13.5%, e o dano foi de " + totalDamage + " pontos de vida.");
@@ -77,10 +77,10 @@ public class SuperHero {
             totalDamage = (int)(totalDamage - (totalDamage * armorStrength / 100));
             if(armorStrength > 20.0){
                 System.out.println("O oponente sofreria uma redução de 60 em sua vida total, porém ele vestia uma armadura contra dano verdadeiro, " +
-                        "por isso o dano foi reduzido em 20.5%, e o dano foi de \" + totalDamage + \" pontos de vida.\"");
+                        "por isso o dano foi reduzido em 20.5%, e o dano foi de " + totalDamage + " pontos de vida.");
             } else if(armorStrength > 16.0) {
                 System.out.println("O oponente sofreria uma redução de 60 em sua vida total, porém ele vestia uma armadura contra dano físico, " +
-                        "por isso o dano foi reduzido em 16.5%, e o dano foi de \" + totalDamage + \" pontos de vida.\"");
+                        "por isso o dano foi reduzido em 16.5%, e o dano foi de " + totalDamage +  "pontos de vida.");
             } else {
                 System.out.println("O oponente sofreria uma redução de 60 em sua vida, porém ele vestia uma armadura contra dano mágico, " +
                         "por isso o dano foi reduzido em 13.5%, e o dano foi de " + totalDamage + " pontos de vida.");
